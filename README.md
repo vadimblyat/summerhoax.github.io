@@ -6,5 +6,4 @@ Please avoid them at all costs.
 Check out <https://github.com/summerhoax/summerhoax.github.io/wiki>.
 
 ## Want to discuss about hosting? Want to chill in our Discord?
-<https://discord.gg/ru5gCBz>
-Note: This is the one and only Discord of SummerHoax. We are neither involved in nor responsible for the actions of other people in unofficial/fan/community/copied Discord servers. 
+As our members are from the Revenact Community and we generally share the same attitude against illegal hosts and scammers, you can find us at https://revenact.io/discord. This is the only Discord we are in, and we do not take responsibility for the actions of other unofficial/fan/community Discord such as the Summerhoax Court group. We neither endorse or participate in such Discords. 
