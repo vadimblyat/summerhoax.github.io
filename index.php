@@ -273,6 +273,9 @@
                         <li data-placement="left" data-toggle="tooltip" title="Using discord to sell directly to the customers. Spamming users with advertisements via private messages.">
 							<a href="https://discord.gg/6ZmfCS">DoveHosting</a>
                         </li>
+			<li data-placement="left" data-toggle="tooltip" title="They have used an illegal version of WHMCS and people are being scammed there. Domain has been seized by the hoster">
+                            <a href="http://www.rainhosting.nl">RainHosting</a>
+                        </li>
                     </ul>
                     <p class="text-muted">We take no responsibility for the accuracy of these listings.</p>
                 </div>
