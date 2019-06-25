@@ -261,9 +261,6 @@
                         <li data-placement="left" data-toggle="tooltip" title="Atlias ticks all the marks for being on the SummerHoax watchlist. Run under the same company managing the well-known scam Cubiknode, Atlias.io is also using by the same support team, who have not been active in over a month.">
                             <a href="https://atlias.io/">Atlias.io</a>
                         </li>
-                        <li data-placement="left" data-toggle="tooltip" title="Host ran by an owner who has no knowledge of his system, not even knowing who the provider is. The excuse is that he is still 'Mr.Learning', which is even worse that testing in production. This is the same owner as Dedifire.co.uk (a fake ripoff of the real company Dedifire LLC which got taken down by DMCA) who said he didn't care if his staff were leakers.">
-                            <a href="https://webrexhosting.com/">WebrexHosting.com</a>
-                        </li>
                         <li data-placement="left" data-toggle="tooltip" title="Using nulled WHMCS, Owner is 12, lying about owned hardware, major league overselling, fell for a discord scam asking people to join Contabo Group">
                             <a href="http://lightfordac.com">LightFordAC.com</a>
                         </li>
@@ -292,6 +289,9 @@
                         </li>
                         <li data-placement="left" data-toggle="tooltip" title="A failure, a scam, a meme that had long overstayed its welcome - Fortress Host was all of these things. Favorite practices included: exploiting free hardware, promising false promises, and offering 'alternative' refunds.">
                             <a href="https://fortress.host">Fortress.host</a>
+                        </li>
+		        <li data-placement="left" data-toggle="tooltip" title="Host ran by an owner who has no knowledge of his system, not even knowing who the provider is. The excuse is that he is still 'Mr.Learning', which is even worse that testing in production. This is the same owner as Dedifire.co.uk (a fake ripoff of the real company Dedifire LLC which got taken down by DMCA) who said he didn't care if his staff were leakers.">
+                            <a href="https://webrexhosting.com/">WebrexHosting.com</a>
                         </li>
                     </ul>
                     <p class="text-muted">Thanks to the wonders of technology, you can view previous versions of
