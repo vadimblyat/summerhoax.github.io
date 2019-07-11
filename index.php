@@ -226,7 +226,7 @@
                         avoiding these hosts if possible.</p>
                     <hr>
                     <ul>
-                        <li data-placement="left" data-toggle="tooltip" title="Notorious scammer. Avoid at all cost. Delivering a broken product, refusing to give refunds and basically tell people to open a dispute if they want their money back. This infamous lunatic also begs people to send him money and claims that he is not scamming because they can open a charge back via PayPal. Even worse, upon getting a dispute, this sad joke takes it to DM and call his victims 'fucking ass wipe'. ">
+                        <li data-placement="left" data-toggle="tooltip" title="Notorious scammer. Avoid at all cost. Delivering a broken product, refusing to give refunds and basically telling people to open a dispute if they want their money back. This infamous lunatic also begged people to send him money and claimed that he was not scamming because they can open a charge back via PayPal. Even worse, upon getting a dispute, this sad joke took it to DM and called his victims 'fucking ass wipe'. ">
                             <a href="https://leetvpn.xyz">LeetVPN.xyz</a>			    
                         <li data-placement="left" data-toggle="tooltip" title="”CEO” is very entitled, cocky, rude, and toxic. Lies about his hardware. Doesn’t even have a proper website...essentially runs everything out of his discord server. You can literally go into his website directory and find a bunch of templates he’s downloaded most likely for future use.">
                             <a href="https://discord.gg/tScBE9M">PingNode.eu</a>
