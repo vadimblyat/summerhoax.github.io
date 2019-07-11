@@ -226,6 +226,9 @@
                         avoiding these hosts if possible.</p>
                     <hr>
                     <ul>
+                         <li data-placement="left" data-toggle="tooltip" title="Owned by ItzAwesome, claims to give you 14GB of ram and 6 CPU Cores for $0. The owner doesn't even use any proper grammar ('losted files'). Extremely unprofessional staff. They gave the website developer admin, and the website developer doesn't even know the node specs. 'Please note about our nodes is currently under risk.' - ItzAwesome. They're obviously abusing 1&1 or they're overselling. They've even DM advertised their services in other host's Discord's. They are also abusing a glitch to get paid resources for free on a popular web forum. Owner also uses leaked software, and heck, he even managed to get banned from leak sites for releaking. This scum knows no limit.">
+                            <a href="http://falixnodes.host">FalixNodes.host</a>
+                        </li>	
                         <li data-placement="left" data-toggle="tooltip" title="Notorious scammer. Avoid at all cost. Delivering a broken product, refusing to give refunds and basically telling people to open a dispute if they want their money back. This infamous lunatic also begged people to send him money and claimed that he was not scamming because they can open a charge back via PayPal. Even worse, upon getting a dispute, this sad joke took it to DM and called his victims 'fucking ass wipe'. ">
                             <a href="https://leetvpn.xyz">LeetVPN.xyz</a>			    
                         <li data-placement="left" data-toggle="tooltip" title="”CEO” is very entitled, cocky, rude, and toxic. Lies about his hardware. Doesn’t even have a proper website...essentially runs everything out of his discord server. You can literally go into his website directory and find a bunch of templates he’s downloaded most likely for future use.">
@@ -259,9 +262,6 @@
                         </li>
                         <li data-placement="left" data-toggle="tooltip" title="Using nulled WHMCS, Owner is 12, lying about owned hardware, major league overselling, fell for a discord scam asking people to join Contabo Group">
                             <a href="http://lightfordac.com">LightFordAC.com</a>
-                        </li>
-                         <li data-placement="left" data-toggle="tooltip" title="Owned by ItzAwesome, claims to give you 14GB of ram and 6 CPU Cores for $0. The owner doesn't even use any proper grammar ('losted files'). Extremely unprofessional staff. They gave the website developer admin, and the website developer doesn't even know the node specs. 'Please note about our nodes is currently under risk.' - ItzAwesome. They're obviously abusing 1&1 or they're overselling. They've even DM advertised their services in other host's Discord's. They are also abusing a glitch to get paid resources for free on a popular web forum. Owner also uses leaked software.">
-                            <a href="http://falixnodes.host">FalixNodes.host</a>
                         </li>
                         <li data-placement="left" data-toggle="tooltip" title="Using discord to sell directly to the customers. Spamming users with advertisements via private messages.">
 							<a href="https://discord.gg/6ZmfCS">DoveHosting</a>
