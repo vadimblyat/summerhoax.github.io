@@ -226,16 +226,12 @@
                         avoiding these hosts if possible.</p>
                     <hr>
                     <ul>
-                        <li data-placement="left" data-toggle="tooltip" title="Very few are able to pull off what the owner of Venom Hosting, EDBTVPlays, while facing little to no consequences. The 16-year-old owner of Venom Hosting, also known as EdbtvPlays or Edward Brook, took many of his days spending ridiculous amounts of money on his mother's credit card. He created a host, played plenty of Unturned, and did god knows what else with his near-unlimited amount of cash. His mother? Blisfully unknowing she was losing thousands of dollars to her son's stupid decisions on the internet. At least, it didn't last for long. Like any self-respecting, dignified parent, Edward's mother filed a chargeback. Not just any chargeback, though - a $6,000 (Likely much higher) Chargeback. Countless people affected. Many losing thousands of dollars. Several hours of drama. It is *currently* unknown what happened to Edward. His social media presence has been since wiped. A lawyer representing an affected individual is supposedly filing a case against him and his family.">
-                            <a href="https://web.archive.org/web/20180806132535/http://venom-hosting.com/">Venom Hosting (Archive.org)</a>
-                        </li>
+                        <li data-placement="left" data-toggle="tooltip" title="Notorious scammer. Avoid at all cost. Delivering a broken product, refusing to give refunds and basically tell people to open a dispute if they want their money back. This infamous lunatic also begs people to send him money and claiming that he is not scamming because they can open a charge back via PayPal.">
+                            <a href="https://leetvpn.xyz">LeetVPN.xyz</a>			    
                         <li data-placement="left" data-toggle="tooltip" title="”CEO” is very entitled, cocky, rude, and toxic. Lies about his hardware. Doesn’t even have a proper website...essentially runs everything out of his discord server. You can literally go into his website directory and find a bunch of templates he’s downloaded most likely for future use.">
                             <a href="https://discord.gg/tScBE9M">PingNode.eu</a>
                         <li data-placement="left" data-toggle="tooltip" title="Owners are extremely salty. Uses default everything on their website. Had a .nl domain but changed it to .eu. Owners spam emails and claim “our website is near completion” also at one point said they developed their billing panel which is obviously just default WHMCS...">
                             <a href="https://Iwa-hosting.eu">IWA-Hosting.eu</a>
-                        </li>
-                        <li data-placement="left" data-toggle="tooltip" title="Using nulled WHMCS and doubled down on it saying he does not see a point in spending money on something he can get for free. Super shady Discord, selling stuffs like Spotify accounts to claiming that they have a $3000 DDOS Protection (which we highly doubt they have - they can't even spend $15 on a WHMCS license).">
-                            <a href="https://server642.com">Server642.com</a>
                         </li>
                         <li data-placement="left" data-toggle="tooltip" title="Abusing Google Cloud Free tier. A 'host' running off of a single core, 2 GB VPS - took 2 minutes to start a 1.10.2 server">
                             <a href="https://fragbytehosting.co.uk/">FragByteHosting.co.uk</a>
@@ -284,6 +280,12 @@
                     <p class="text-muted">Certified Summer Hoaxes&trade; that no longer exist.</p>
                     <hr>
                     <ul>
+                        <li data-placement="left" data-toggle="tooltip" title="Very few are able to pull off what the owner of Venom Hosting, EDBTVPlays, while facing little to no consequences. The 16-year-old owner of Venom Hosting, also known as EdbtvPlays or Edward Brook, took many of his days spending ridiculous amounts of money on his mother's credit card. He created a host, played plenty of Unturned, and did god knows what else with his near-unlimited amount of cash. His mother? Blisfully unknowing she was losing thousands of dollars to her son's stupid decisions on the internet. At least, it didn't last for long. Like any self-respecting, dignified parent, Edward's mother filed a chargeback. Not just any chargeback, though - a $6,000 (Likely much higher) Chargeback. Countless people affected. Many losing thousands of dollars. Several hours of drama. It is *currently* unknown what happened to Edward. His social media presence has been since wiped. A lawyer representing an affected individual is supposedly filing a case against him and his family.">
+                            <a href="https://web.archive.org/web/20180806132535/http://venom-hosting.com/">Venom Hosting (Archive.org)</a>
+                        </li>			    
+                        <li data-placement="left" data-toggle="tooltip" title="Using nulled WHMCS and doubled down on it saying he does not see a point in spending money on something he can get for free. Super shady Discord, selling stuffs like Spotify accounts to claiming that they have a $3000 DDOS Protection (which we highly doubt they have - they can't even spend $15 on a WHMCS license).">
+                            <a href="https://server642.com">Server642.com</a>
+                        </li>		
                         <li data-placement="left" data-toggle="tooltip" title="Ran by the famous lunatic. Makes a load of bold claims saying that they will rape the industry (yes, literally) when they don't even have a very basic proper host setup. They also hired haxxors to haxx criticism.">
                             <a href="https://enteron.world">Enteron.world</a>
                         </li>
