@@ -226,8 +226,8 @@
                         avoiding these hosts if possible.</p>
                     <hr>
                     <ul>
-                         <li data-placement="left" data-toggle="tooltip" title="SummerHoax who doesn't even have a website, does not know who their provider is and directly copying off a another company (SecureSRV.io). Avoid.">
-                            <a href="https://discord.gg/6MwcMH8">VoidHost</a>
+                         <li data-placement="left" data-toggle="tooltip" title="SummerHoax who doesn't even have a website, does not know who their provider is and directly copying off a another company (SecureSRV.io). This sad meme also turns out to be a fake copy of the ACTUAL VoidHost, which is now owned by ShockByte). Avoid at all cost.">
+                            <a href="https://discord.gg/6MwcMH8">VoidHost (Fake Copy)</a>
                         </li>				
                          <li data-placement="left" data-toggle="tooltip" title="Owned by ItzAwesome, claims to give you 14GB of ram and 6 CPU Cores for $0. The owner doesn't even use any proper grammar ('losted files'). Extremely unprofessional staff. They gave the website developer admin, and the website developer doesn't even know the node specs. 'Please note about our nodes is currently under risk.' - ItzAwesome. They're obviously abusing 1&1 or they're overselling. They've even DM advertised their services in other host's Discord's. They are also abusing a glitch to get paid resources for free on a popular web forum. Owner also uses leaked software, and heck, he even managed to get banned from leak sites for releaking. This scum knows no limit.">
                             <a href="http://falixnodes.host">FalixNodes.host</a>
