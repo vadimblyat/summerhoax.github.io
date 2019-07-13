@@ -266,8 +266,8 @@
                         <li data-placement="left" data-toggle="tooltip" title="Using nulled WHMCS, Owner is 12, lying about owned hardware, major league overselling, fell for a discord scam asking people to join Contabo Group">
                             <a href="http://lightfordac.com">LightFordAC.com</a>
                         </li>
-                        <li data-placement="left" data-toggle="tooltip" title="Using discord to sell directly to the customers. Spamming users with advertisements via private messages.">
-							<a href="https://discord.gg/6ZmfCS">DoveHosting</a>
+                        <li data-placement="left" data-toggle="tooltip" title="Using discord to sell directly to the customers. Spamming users with advertisements via private messages. Accusing Zack of DM Advertising and when asked for proof changes the subject. Once he realized he was on SummerHoax he decided to change the name of his host acting like we wouldn't find out. Total meme and absolute retard.">
+							<a href="https://discord.gg/wGPCdMb">FlashNode</a>
                         </li>
 			<li data-placement="left" data-toggle="tooltip" title="They have used an illegal version of WHMCS and people are being scammed there. Domain has been seized by the hoster">
                             <a href="http://www.rainhosting.nl">RainHosting</a>
