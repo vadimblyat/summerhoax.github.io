@@ -9,8 +9,8 @@ Check out <https://github.com/summerhoax/summerhoax.github.io/wiki>.
 As our members are from the Revenact Community and we share the same attitude against illegal hosts, you can find us in the same Discord as Revenact (https://revenact.io/discord). We do not take responsibility for the actions of any other unofficial/fan/community Discord such as the Summerhoax County Court Group. We neither endorse nor participate in such Discord Servers. 
 
 ## 7/15/19 Announcement
-It has come to our attention that a group lead by Rouing has been trying to buy out all "SummerHost" and "SummerHoax" domains, including SummerHost.com and SummerHoax.club. They have also plotted to social engineer people and leak databases, targetting big as well as small hosts.
+It has come to our attention that a group lead by Rouing has been trying to buy out all "SummerHost" domains, including SummerHost.com and SummerHost.club. They have also plotted to social engineer people and leak databases, targetting big as well as small hosts.
 
-The only official website that is run by us is summerhoax.com. Our sole purpose is to make fun of scam and illegal hosts to help people avoid them. We do not get involved in the nefarious activities listed above.
+The only official website that is run by us is SummerHoax.com. Our sole purpose is to make fun of scam and illegal hosts to help people avoid them. We do not get involved in the nefarious activities listed above.
 
 Please beware of those people.
