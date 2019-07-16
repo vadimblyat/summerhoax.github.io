@@ -226,6 +226,7 @@
 		       Our sole purpose is to make fun of scam and illegal hosts to help people avoid them. We do not get involved in the nefarious activities listed above. 
 		       Please beware of those people who will do anything for their pathetic memes.</p>
                 </div>
+		<br>
             </div>
             <div class="card">
                 <div class="card-body">
