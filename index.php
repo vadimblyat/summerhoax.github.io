@@ -364,14 +364,14 @@
                         owners if that happens to be you!</p>
                 </div>
             </div>
+	    <br>
             <div class="card">
                 <div class="card-body">
                     <h5>Important</h5>
                     <p class="text-muted"It has come to our attention that a group lead by Rouing has been trying to buy out all "SummerHost" domains, including SummerHost.com and SummerHost.club. They have also plotted to social engineer people and leak databases, targetting big as well as small hosts.
-
-The only official website that is run by us is SummerHoax.com. Our sole purpose is to make fun of scam and illegal hosts to help people avoid them. We do not get involved in the nefarious activities listed above.
-
-Please beware of those people.></p>
+		       The only official website that is run by us is SummerHoax.com. 
+		       Our sole purpose is to make fun of scam and illegal hosts to help people avoid them. We do not get involved in the nefarious activities listed above. 
+		       Please beware of those people who will do anything for their pathetic memes.></p>
                 </div>
             </div>
         </div>
