@@ -228,8 +228,8 @@
 			For more information, please <a href = "https://github.com/summerhoax/summerhoax.github.io/commit/426c0994f272c1703945586f11e6d48d9fa7dd54"> Click Me! </a>
 		    </p>
                 </div>
-		<br>
             </div>
+	    <br>
             <div class="card">
                 <div class="card-body">
                     <h5>Certified Summer Hoaxes&trade;</h5>
