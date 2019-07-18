@@ -220,11 +220,13 @@
         <div class="col-md-4">
 	    <div class="card">
                 <div class="card-body">
-                    <h5>Important (7/15/2019)</h5>
-                    <p class="text-muted">It has come to our attention that a group lead by Rouing has been trying to buy out all "SummerHost" domains, including SummerHost.com and SummerHost.club. They have also plotted to social engineer people and leak databases, targetting big as well as small hosts.
-		       The only official website that is run by us is SummerHoax.com. 
-		       Our sole purpose is to make fun of scam and illegal hosts to help people avoid them. We do not get involved in the nefarious activities listed above. 
-		       Please beware of those people who will do anything for their pathetic memes.</p>
+                    <h5>Important Announcement</h5>
+                    <p class="text-muted">It has come to our attention that a group lead by Rouing has been trying to attack hosts using our name.
+			Their nasty plans include social engineering, stealing client data, leaking databases and shifting blame to others.
+			We do not get involved in these activities and have nothing to do with these people. Please be aware of those people. 
+			Our one and only website is Summerhoax.com. Websites such as Summerhost.com and Summerhost.club are not ours. 
+			For more information, please <a href = "#"> Click Me! </a>
+		    </p>
                 </div>
 		<br>
             </div>
