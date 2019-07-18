@@ -225,7 +225,7 @@
 			Their nasty plans include social engineering, stealing client data, leaking databases and shifting blame to others.
 			We do not get involved in these activities and have nothing to do with these people. Please be aware of those people. 
 			Our one and only website is Summerhoax.com. Websites such as Summerhost.com and Summerhost.club are not ours. 
-			For more information, please <a href = "#"> Click Me! </a>
+			For more information, please <a href = "https://github.com/summerhoax/summerhoax.github.io/commit/426c0994f272c1703945586f11e6d48d9fa7dd54"> Click Me! </a>
 		    </p>
                 </div>
 		<br>
