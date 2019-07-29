@@ -238,8 +238,11 @@
                         avoiding these hosts if possible.</p>
                     <hr>
                     <ul>
+                         <li data-placement="left" data-toggle="tooltip" title="Not having a website, claiming to have a Xeon Platinum with 6xGPUs from OVH US when they do not even offer such servers (yes, this has been confirmed with OVH staff), banning people when they get called out, and not even knowing where their servers are actually located. ">
+                            <a href="https://discord.gg/uQVjEtv">Rough MC Servers Hosting</a>
+                        </li>				    
                          <li data-placement="left" data-toggle="tooltip" title="Trankery has impersonated Skynode.pro, Server.pro, and Deploys.io in the past. Banned from MCM for Scamming on multiple occasions. When confronted, he proceeds to ban everyone involved and acting like this never happened.">
-                            <a href="deployments.pro">Deployments.pro | Not Deploys.io</a>
+                            <a href="https://deployments.pro">Deployments.pro | Not Deploys.io</a>
                         </li>	
                          <li data-placement="left" data-toggle="tooltip" title="SummerHoax who doesn't even have a website, does not know who their provider is and literally copies the plans and specs of a another company (SecureSRV). It turns out, these people are also posing as ACTUAL VoidHost (which has been acquired by ShockByte) and claim that they bought the company. Avoid at all cost.">
                             <a href="https://discord.gg/6MwcMH8">Rootbeer Hosting | Fake Void Host</a>
