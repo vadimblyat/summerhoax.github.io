@@ -238,7 +238,7 @@
                         avoiding these hosts if possible.</p>
                     <hr>
                     <ul>
-                         <li data-placement="left" data-toggle="tooltip" title=""CEO" impersonated Skynode.pro and Deploys.io in the past. Banned from MCM for Scamming on multiple occasions. When confronted, he proceeds to ban everyone involved and acting like this never happened. Has multiple sys admins who have admitted to being 14 and they still proceed to call themselves professional.">
+                         <li data-placement="left" data-toggle="tooltip" title=""CEO" impersonated Skynode.pro and Deploys.io in the past. Banned from MCM for Scamming on multiple occasions. When confronted, he proceeds to ban everyone involved and acting like this never happened.">
                             <a href="deployments.pro">Deployments.pro | Not Deploys.io</a>
                         </li>	
                          <li data-placement="left" data-toggle="tooltip" title="SummerHoax who doesn't even have a website, does not know who their provider is and literally copies the plans and specs of a another company (SecureSRV). It turns out, these people are also posing as ACTUAL VoidHost (which has been acquired by ShockByte) and claim that they bought the company. Avoid at all cost.">
