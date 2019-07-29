@@ -278,9 +278,6 @@
                         <li data-placement="left" data-toggle="tooltip" title="Atlias ticks all the marks for being on the SummerHoax watchlist. Run under the same company managing the well-known scam Cubiknode, Atlias.io is also using by the same support team, who have not been active in over a month.">
                             <a href="https://atlias.io/">Atlias.io</a>
                         </li>
-                        <li data-placement="left" data-toggle="tooltip" title="Using nulled WHMCS, Owner is 12, lying about owned hardware, major league overselling, fell for a discord scam asking people to join Contabo Group">
-                            <a href="http://lightfordac.com">LightFordAC.com</a>
-                        </li>
                         <li data-placement="left" data-toggle="tooltip" title="Using discord to sell directly to the customers. Spamming users with advertisements via private messages. Accusing Zack of DM Advertising and when asked for proof changes the subject. Once he realized he was on SummerHoax he decided to change the name of his host acting like we wouldn't find out. Total meme and absolute retard.">
 							<a href="https://discord.gg/wGPCdMb">FlashNode</a>
                         </li>
@@ -298,6 +295,9 @@
                     <p class="text-muted">Certified Summer Hoaxes&trade; that no longer exist.</p>
                     <hr>
                     <ul>
+                        <li data-placement="left" data-toggle="tooltip" title="Using nulled WHMCS, Owner is 12, lying about owned hardware, major league overselling, fell for a discord scam asking people to join Contabo Group">
+                            <a href="http://lightfordac.com">LightFordAC.com</a>
+                        </li>
                         <li data-placement="left" data-toggle="tooltip" title="Very few are able to pull off what the owner of Venom Hosting, EDBTVPlays, while facing little to no consequences. The 16-year-old owner of Venom Hosting, also known as EdbtvPlays or Edward Brook, took many of his days spending ridiculous amounts of money on his mother's credit card. He created a host, played plenty of Unturned, and did god knows what else with his near-unlimited amount of cash. His mother? Blisfully unknowing she was losing thousands of dollars to her son's stupid decisions on the internet. At least, it didn't last for long. Like any self-respecting, dignified parent, Edward's mother filed a chargeback. Not just any chargeback, though - a $6,000 (Likely much higher) Chargeback. Countless people affected. Many losing thousands of dollars. Several hours of drama. It is *currently* unknown what happened to Edward. His social media presence has been since wiped. A lawyer representing an affected individual is supposedly filing a case against him and his family.">
                             <a href="https://web.archive.org/web/20180806132535/http://venom-hosting.com/">Venom Hosting (Archive.org)</a>
                         </li>			    
