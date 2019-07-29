@@ -239,7 +239,7 @@
                     <hr>
                     <ul>
                          <li data-placement="left" data-toggle="tooltip" title="Not having a website, claiming to have a Xeon Platinum with 6xGPUs from OVH US when they do not even offer such servers (yes, this has been confirmed with OVH staff), banning people when they get called out, and not even knowing where their servers are actually located. ">
-                            <a href="https://discord.gg/uQVjEtv">Rough MC Servers Hosting</a>
+                            <a href="https://discord.gg/uQVjEtv">Rogue MC Servers Hosting</a>
                         </li>				    
                          <li data-placement="left" data-toggle="tooltip" title="Trankery has impersonated Skynode.pro, Server.pro, and Deploys.io in the past. Banned from MCM for Scamming on multiple occasions. When confronted, he proceeds to ban everyone involved and acting like this never happened.">
                             <a href="https://deployments.pro">Deployments.pro | Not Deploys.io</a>
