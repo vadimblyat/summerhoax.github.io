@@ -139,21 +139,6 @@
     </div>
     <div class="card">
         <a href="#">
-            <img src="/static_assets/media/hoaxes/fragbytehosting/fragbytehosting-logo.png" class="card-img-top" alt="Logo of FragbyteHosting">
-        </a>
-        <div class="card-body">
-            <h5 class="card-title">FragbyteHosting</h5>
-            <p class="card-text">Abusing Google Cloud Free tier. A 'host' running off of a single core, 2 GB VPS - took 2 minutes to start a 1.10.2 server</p>
-        </div>
-        <div class="card-footer">
-            <small class="text-muted">Last updated N/A</small> <!-- Make sure you Update! -->
-            <span style="float:right;">
-            <a tabindex="0" data-toggle="popover" data-trigger="focus" title="Information" data-content="Sorry, we're currently developing this page!">Read More</a>
-        </span>
-        </div>
-    </div>
-    <div class="card">
-        <a href="#">
             <img src="/static_assets/media/hoaxes/mcshostingltd/mcshostingltd-logo.png" class="card-img-top" alt="Logo of MCSHosting LTD">
         </a>
         <div class="card-body">
