@@ -257,9 +257,6 @@
                         <li data-placement="left" data-toggle="tooltip" title="Owners are extremely salty. Uses default everything on their website. Had a .nl domain but changed it to .eu. Owners spam emails and claim “our website is near completion” also at one point said they developed their billing panel which is obviously just default WHMCS...">
                             <a href="https://Iwa-hosting.eu">IWA-Hosting.eu</a>
                         </li>
-                        <li data-placement="left" data-toggle="tooltip" title="Abusing Google Cloud Free tier. A 'host' running off of a single core, 2 GB VPS - took 2 minutes to start a 1.10.2 server">
-                            <a href="https://fragbytehosting.co.uk/">FragByteHosting.co.uk</a>
-                        </li>
                         <li data-placement="left" data-toggle="tooltip" title="Host ran by a notirious active leaker JesusX0 (a.k.a NiñoRataPistolita on BlackShitMC). They are also responsible for making a clone of an old host named Dedifire and claim that the host was sold to them.">
                             <a href="https://bjncloud.host">BJNCloud.host</a>
                         </li>
