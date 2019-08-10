@@ -279,10 +279,13 @@
                             <a href="https://atlias.io/">Atlias.io</a>
                         </li>
                         <li data-placement="left" data-toggle="tooltip" title="Using discord to sell directly to the customers. Spamming users with advertisements via private messages. Accusing Zack of DM Advertising and when asked for proof changes the subject. Once he realized he was on SummerHoax he decided to change the name of his host acting like we wouldn't find out. Total meme and absolute retard.">
-							<a href="https://discord.gg/wGPCdMb">FlashNode</a>
+			    <a href="https://discord.gg/wGPCdMb">FlashNode</a>
                         </li>
 			<li data-placement="left" data-toggle="tooltip" title="They have used an illegal version of WHMCS and people are being scammed there. Domain has been seized by the hoster">
                             <a href="http://www.rainhosting.nl">RainHosting</a>
+                        </li>
+			<li data-placement="left" data-toggle="tooltip" title="This host has had a ton of downtime that they've denied in the past. You have to contact support to just get your server rebooted. They recently closed their Discord and said that there was a &quot;network upgrade&quot; that would last an hour. However, it's been almost 5 days with no response. Their website and servers are completely offline. What a joke of a host!">
+                            <a href="https://eportal.icxrealty.com">ICXRealty</a>
                         </li>
                     </ul>
                     <p class="text-muted">We take no responsibility for the accuracy of these listings.</p>
