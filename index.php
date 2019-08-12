@@ -327,6 +327,9 @@
                         "Notable Mentions" card. These people are truly amazing.</p>
                     <hr>
                     <ul>
+                        <li data-placement="left" data-toggle="tooltip" title="This little guy sends pics of his little ancient server claiming to be a Dual Xeon Gold. Scamming people and claiming to be doing it for us (excuse me what?). This same guy has also tried to pose as other reputable hosts (Server.pro, SkyNode). Avoid at all cost. His new Discord name is Discord#9000">
+                            <a href="#">Trankery </a>
+                        </li>
                         <li data-placement="left" data-toggle="tooltip" title="The well known and beloved scammer, stealing hardware via fake colocations. He is also a registered sex offender. What a wunderbar human being amirite?">
                             <a href="https://summerhoax.com/vault/prout">Joshua Prout</a>
                         </li>
