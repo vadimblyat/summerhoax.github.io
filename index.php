@@ -244,6 +244,9 @@
                          <li data-placement="left" data-toggle="tooltip" title="Trankery has impersonated Skynode.pro, Server.pro, and Deploys.io in the past. Banned from MCM for Scamming on multiple occasions. When confronted, he proceeds to ban everyone involved and acting like this never happened.">
                             <a href="https://deployments.pro">Deployments.pro | Not Deploys.io</a>
                         </li>	
+                         <li data-placement="left" data-toggle="tooltip" title="Another clown host invented by our favorite hobo Trankery. Impersonating a legitimate host and does not even have a billing system.">
+                            <a href="https://skynode.us">SkyNode.us | Fake SkyNode.host</a>
+                        </li>	
                          <li data-placement="left" data-toggle="tooltip" title="SummerHoax who doesn't even have a website, does not know who their provider is and literally copies the plans and specs of a another company (SecureSRV). It turns out, these people are also posing as ACTUAL VoidHost (which has been acquired by ShockByte) and claim that they bought the company. Avoid at all cost.">
                             <a href="https://discord.gg/6MwcMH8">Rootbeer Hosting | Fake Void Host</a>
                         </li>				
