@@ -238,6 +238,9 @@
                         avoiding these hosts if possible.</p>
                     <hr>
                     <ul>
+                         <li data-placement="left" data-toggle="tooltip" title="Classic summerhost: No SSL, Nulled WHMCS, Freenom domain, lying about specs (claiming to have dual i9-9900K).">
+                            <a href="http://wizardland.tk/">WizardLand.tk</a>
+                        </li>				    
                          <li data-placement="left" data-toggle="tooltip" title="Not having a website, claiming to have a Xeon Platinum with 6xGPUs from OVH US when they do not even offer such servers (yes, this has been confirmed with OVH staff), banning people when they get called out, and not even knowing where their servers are actually located. ">
                             <a href="https://discord.gg/uQVjEtv">Rogue MC Servers Hosting</a>
                         </li>				    
@@ -245,7 +248,7 @@
                             <a href="https://deployments.pro">Deployments.pro | Not Deploys.io</a>
                         </li>	
                          <li data-placement="left" data-toggle="tooltip" title="Another clown host invented by our favorite hobo Trankery. Impersonating a legitimate host and does not even have a billing system.">
-                            <a href="https://skynode.us">SkyNode.us | Fake SkyNode.host</a>
+                            <a href="https://skynode.pro">SkyNode.pro | Fake SkyNode.pro</a>
                         </li>	
                          <li data-placement="left" data-toggle="tooltip" title="SummerHoax who doesn't even have a website, does not know who their provider is and literally copies the plans and specs of a another company (SecureSRV). It turns out, these people are also posing as ACTUAL VoidHost (which has been acquired by ShockByte) and claim that they bought the company. Avoid at all cost.">
                             <a href="https://discord.gg/6MwcMH8">Rootbeer Hosting | Fake Void Host</a>
