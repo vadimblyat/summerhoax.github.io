@@ -248,7 +248,7 @@
                             <a href="https://deployments.pro">Deployments.pro | Not Deploys.io</a>
                         </li>	
                          <li data-placement="left" data-toggle="tooltip" title="Another clown host invented by our favorite hobo Trankery. Impersonating a legitimate host and does not even have a billing system.">
-                            <a href="https://skynode.pro">SkyNode.pro | Fake SkyNode.pro</a>
+                            <a href="https://skynode.us">SkyNode.us | Fake SkyNode.pro</a>
                         </li>	
                          <li data-placement="left" data-toggle="tooltip" title="SummerHoax who doesn't even have a website, does not know who their provider is and literally copies the plans and specs of a another company (SecureSRV). It turns out, these people are also posing as ACTUAL VoidHost (which has been acquired by ShockByte) and claim that they bought the company. Avoid at all cost.">
                             <a href="https://discord.gg/6MwcMH8">Rootbeer Hosting | Fake Void Host</a>
