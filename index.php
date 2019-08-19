@@ -293,6 +293,9 @@
 			<li data-placement="left" data-toggle="tooltip" title="This host has had a ton of downtime that they've denied in the past. You have to contact support to just get your server rebooted. They recently closed their Discord and said that there was a &quot;network upgrade&quot; that would last an hour. However, it's been almost 5 days with no response. Their website and servers are completely offline. What a joke of a host!">
                             <a href="https://eportal.icxrealty.com">ICXRealty</a>
                         </li>
+            		<li data-placement="left" data-toggle="tooltip" title="They have used an illegal version of WHMCS in the past and people are being scammed there. Jules Durand, the owner of Skoali put hundreds of backdoors when he have been fired of his old host where the only thing he did as a sysadmin was trying for several days to install Pterodactyl with the help of the great Pterodactyl Support Team and the only change that he make to the ptero install was changing the background color lmao">
+                            <a href="https://www.skoali.fr">Skoali</a>
+                        </li>
                     </ul>
                     <p class="text-muted">We take no responsibility for the accuracy of these listings.</p>
                 </div>
