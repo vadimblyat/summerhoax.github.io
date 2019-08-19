@@ -246,13 +246,7 @@
                         </li>				    
                          <li data-placement="left" data-toggle="tooltip" title="Trankery has impersonated Skynode.pro, Server.pro, and Deploys.io in the past. Banned from MCM for Scamming on multiple occasions. When confronted, he proceeds to ban everyone involved and acting like this never happened.">
                             <a href="https://deployments.pro">Deployments.pro | Not Deploys.io</a>
-                        </li>	
-                         <li data-placement="left" data-toggle="tooltip" title="Another clown host invented by our favorite hobo Trankery. Impersonating a legitimate host and does not even have a billing system.">
-                            <a href="https://skynode.us">SkyNode.us | Fake SkyNode.pro</a>
-                        </li>	
-                         <li data-placement="left" data-toggle="tooltip" title="SummerHoax who doesn't even have a website, does not know who their provider is and literally copies the plans and specs of a another company (SecureSRV). It turns out, these people are also posing as ACTUAL VoidHost (which has been acquired by ShockByte) and claim that they bought the company. Avoid at all cost.">
-                            <a href="https://discord.gg/6MwcMH8">Rootbeer Hosting | Fake Void Host</a>
-                        </li>				
+                        </li>			
                          <li data-placement="left" data-toggle="tooltip" title="Owned by ItzAwesome, claims to give you 14GB of ram and 6 CPU Cores for $0. The owner doesn't even use any proper grammar ('losted files'). Extremely unprofessional staff. They gave the website developer admin, and the website developer doesn't even know the node specs. 'Please note about our nodes is currently under risk.' - ItzAwesome. They're obviously abusing 1&1 or they're overselling. They've even DM advertised their services in other host's Discord's. They are also abusing a glitch to get paid resources for free on a popular web forum. Owner also uses leaked software, and heck, he even managed to get banned from leak sites for releaking. This scum knows no limit.">
                             <a href="http://falixnodes.host">FalixNodes.host</a>
                         </li>	
@@ -278,10 +272,8 @@
                         <li data-placement="left" data-toggle="tooltip" title="Account/Session hijacking possible by simply refreshing the homepage - multiple XSS vectors found within their site - website developer has no clue about web security; claims that PHP's echo function is safe and that XSS issues are caused by the host. No Terms of Service and Privacy Policy. Also selling advertisement slots within their server (including @everyone).">
                             <a href="https://limitednodes.host">LimitedNodes.host</a>
                         </li>
-                        <li data-placement="left" data-toggle="tooltip" title="A well-known scam, CubikNode transformed from a once thriving host to a 2-star 'poor' rating on trustpilot because of well over a dozen reports of scamming. The CEO has vanished and has left his clients with nothing.">
-                            <a href="https://cubiknode.com">Cubiknode.com</a>
-                        </li>
-                        <li data-placement="left" data-toggle="tooltip" title="Atlias ticks all the marks for being on the SummerHoax watchlist. Run under the same company managing the well-known scam Cubiknode, Atlias.io is also using by the same support team, who have not been active in over a month.">
+                        <li data-placement="left" data-toggle="tooltip" title="Atlias ticks all the marks for being on the SummerHoax watchlist. Run under the same company managing the well-known scam 
+									       node, Atlias.io is also using by the same support team, who have not been active in over a month.">
                             <a href="https://atlias.io/">Atlias.io</a>
                         </li>
                         <li data-placement="left" data-toggle="tooltip" title="Using discord to sell directly to the customers. Spamming users with advertisements via private messages. Accusing Zack of DM Advertising and when asked for proof changes the subject. Once he realized he was on SummerHoax he decided to change the name of his host acting like we wouldn't find out. Total meme and absolute retard.">
@@ -289,9 +281,6 @@
                         </li>
 			<li data-placement="left" data-toggle="tooltip" title="They have used an illegal version of WHMCS and people are being scammed there. Domain has been seized by the hoster">
                             <a href="http://www.rainhosting.nl">RainHosting</a>
-                        </li>
-			<li data-placement="left" data-toggle="tooltip" title="This host has had a ton of downtime that they've denied in the past. You have to contact support to just get your server rebooted. They recently closed their Discord and said that there was a &quot;network upgrade&quot; that would last an hour. However, it's been almost 5 days with no response. Their website and servers are completely offline. What a joke of a host!">
-                            <a href="https://eportal.icxrealty.com">ICXRealty</a>
                         </li>
             		<li data-placement="left" data-toggle="tooltip" title="They have used an illegal version of WHMCS in the past and people are being scammed there. Jules Durand, the owner of Skoali put hundreds of backdoors when he have been fired of his old host where the only thing he did as a sysadmin was trying for several days to install Pterodactyl with the help of the great Pterodactyl Support Team and the only change that he make to the ptero install was changing the background color lmao">
                             <a href="https://www.skoali.fr">Skoali</a>
@@ -325,6 +314,18 @@
 		        <li data-placement="left" data-toggle="tooltip" title="Host ran by an owner who has no knowledge of his system, not even knowing who the provider is. The excuse is that he is still 'Mr.Learning', which is even worse that testing in production. This is the same owner as Dedifire.co.uk (a fake ripoff of the real company Dedifire LLC which got taken down by DMCA) who said he didn't care if his staff were leakers.">
                             <a href="https://webrexhosting.com/">WebrexHosting.com</a>
                         </li>
+                        <li data-placement="left" data-toggle="tooltip" title="A well-known scam, CubikNode transformed from a once thriving host to a 2-star 'poor' rating on trustpilot because of well over a dozen reports of scamming. The CEO has vanished and has left his clients with nothing.">
+                            <a href="https://cubiknode.com">Cubiknode.com</a>
+                        </li>			    
+			<li data-placement="left" data-toggle="tooltip" title="SummerHoax who doesn't even have a website, does not know who their provider is and literally copies the plans and specs of a another company (SecureSRV). It turns out, these people are also posing as ACTUAL VoidHost (which has been acquired by ShockByte) and claim that they bought the company. Avoid at all cost.">
+                            <a href="https://discord.gg/6MwcMH8">Rootbeer Hosting | Fake Void Host</a>
+                        </li>		
+                        <li data-placement="left" data-toggle="tooltip" title="Another clown host invented by our favorite hobo Trankery. Impersonating a legitimate host and does not even have a billing system.">
+                            <a href="https://skynode.us">SkyNode.us | Fake SkyNode.pro</a>
+                        </li>	
+			<li data-placement="left" data-toggle="tooltip" title="This host has had a ton of downtime that they've denied in the past. You have to contact support to just get your server rebooted. They recently closed their Discord and said that there was a &quot;network upgrade&quot; that would last an hour. However, it's been almost 5 days with no response. Their website and servers are completely offline. What a joke of a host!">
+                            <a href="https://eportal.icxrealty.com">ICXRealty</a>
+                        </li>			    
                     </ul>
                     <p class="text-muted">Thanks to the wonders of technology, you can view previous versions of
                         these websites at
