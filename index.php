@@ -285,6 +285,10 @@
             		<li data-placement="left" data-toggle="tooltip" title="They have used an illegal version of WHMCS in the past and people are being scammed there. Jules Durand, the owner of Skoali put hundreds of backdoors when he have been fired of his old host where the only thing he did as a sysadmin was trying for several days to install Pterodactyl with the help of the great Pterodactyl Support Team and the only change that he make to the ptero install was changing the background color lmao">
                             <a href="https://www.skoali.fr">Skoali</a>
                         </li>
+			    <li data-placement="left" data-toggle="tooltip" title="VapeHost had many issues such as downtime, ignoring customers & of course using bad security practices and having a breach of all client data (Including Address's, Phone Numbers, Payment Info). VapeHost was one of the Lifetime Host's which advertise lifetime hosting but are really the lifetime of the company. He got hacked and then ghosted the whole discord for days and still not responded ever.">
+                            <a href="https://vapehost.cc">VapeHost</a>
+                        </li>
+			    
                     </ul>
                     <p class="text-muted">We take no responsibility for the accuracy of these listings.</p>
                 </div>
