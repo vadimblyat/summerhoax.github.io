@@ -285,7 +285,7 @@
             		<li data-placement="left" data-toggle="tooltip" title="Jules Durand, the owner of Skoali put hundreds of backdoors, pruned his messages and claimed that the people who provided proof was just spamming him  (for 4+ months???)">
                             <a href="https://www.skoali.fr">Skoali</a>
                         </li>
-			    <li data-placement="left" data-toggle="tooltip" title="VapeHost had many issues such as downtime, ignoring customers & of course using bad security practices and having a breach of all client data (Including Address's, Phone Numbers, Payment Info). VapeHost was one of the Lifetime Host's which advertise lifetime hosting but are really the lifetime of the company. He got hacked and then ghosted the whole discord for days and still not responded ever.">
+			    <li data-placement="left" data-toggle="tooltip" title="VapeHost has many issues such as downtime, ignoring customers & of course using bad security practices a data breach occured of all client data (Including Address's, Phone Numbers & Payment Info). VapeHost is one of the Lifetime Host's which advertise hosting for your lifetime, but as expected it's lifetime of the company. VapeHost got compromised NotFound ghosted the whole discord for days and still never made a public statement about the breach.">
                             <a href="https://vapehost.cc">VapeHost</a>
                         </li>
 			    
