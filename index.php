@@ -289,7 +289,7 @@
                             <a href="https://vapehost.cc">VapeHost</a>
                         </li>
 			    </li>
-			    <li data-placement="left" data-toggle="tooltip" title="MCFreeHosting LTD sold a WHMCS key to a client & never delivered the key> When the client asked for a refund he was denied, and when he charged back the clients friend's server (which had clients on it) was suspended. After that the owner MVP kept ignoring the friend's messages about getting unsuspended for an hour to pull clients. They sell cheap hetzner dedicated server's using SolusVM and are not sustainable (Owner has said he spends around 1k a month on a free host) and will likely shutdown soon enough. The owner leaves for todays without responding to messages. Reinstalls panel every few days for some reason. Overall an unprofessional and scummy host.">
+			    <li data-placement="left" data-toggle="tooltip" title="MCFreeHosting LTD sold a WHMCS key to a client & never delivered it. When the client asked for a refund he was denied, and when he charged back the clients friend's server (which had clients on it) was suspended. After that the owner MVP kept ignoring the friend's messages about getting unsuspended for an hour to pull clients. They sell cheap hetzner dedicated server's using SolusVM and are not sustainable (Owner has said he spends around 1k a month on a free host) and will likely shutdown soon enough. The owner leaves for todays without responding to messages. Reinstalls panel every few days for some reason. Overall an unprofessional and scummy host.">
                             <a href="https://redrock.host">MCFreeHosting LTD</a>
                         </li>
 			    
