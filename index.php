@@ -288,6 +288,10 @@
 			    <li data-placement="left" data-toggle="tooltip" title="VapeHost had many issues such as downtime, ignoring customers & of course using bad security practices and having a breach of all client data (Including Address's, Phone Numbers, Payment Info). VapeHost was one of the Lifetime Host's which advertise lifetime hosting but are really the lifetime of the company. He got hacked and then ghosted the whole discord for days and still not responded ever.">
                             <a href="https://vapehost.cc">VapeHost</a>
                         </li>
+			    </li>
+			    <li data-placement="left" data-toggle="tooltip" title="MCFreeHosting LTD sold a WHMCS key to a client & never got the key, then when the client asked for a refund he was denied, when he charged back he also suspended the clients friend's server which had clients on it. After that the owner MVP kept ignoring the friends messages about getting unsuspended for an hour to pull clients. They sell cheap hetzner dedicated server's using SolusVM and are not sustainable (Owner has said he spends around 1k a month on a free host) and will likely shutdown soon enough. They are legally registered but seem to have used the company for something else for selling tabacoo. Owner leaves for todays without responding to messages. Reinstalls panel every few days for some reason. Overall an unprofessional and scummy host.">
+                            <a href="https://redrock.host">MCFreeHosting LTD</a>
+                        </li>
 			    
                     </ul>
                     <p class="text-muted">We take no responsibility for the accuracy of these listings.</p>
