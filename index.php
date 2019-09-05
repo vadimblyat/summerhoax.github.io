@@ -238,6 +238,9 @@
                         avoiding these hosts if possible.</p>
                     <hr>
                     <ul>
+                         <li data-placement="left" data-toggle="tooltip" title="A clown host ran by Bryan Kea, the hobo who obtains his free servers using fake bank account number. Use this amazing free host if you want to give this underage kid who engaged in identity theft your personal information.">
+                            <a href="https://discord.gg/geYdah">Platinum Nodes</a>
+                        </li>				 
                          <li data-placement="left" data-toggle="tooltip" title="Classic summerhost: No SSL, Nulled WHMCS, Freenom domain, lying about specs (claiming to have dual i9-9900K).">
                             <a href="http://wizardland.tk/">WizardLand.tk</a>
                         </li>				    
@@ -282,10 +285,7 @@
 			<li data-placement="left" data-toggle="tooltip" title="They have used an illegal version of WHMCS and people are being scammed there. Domain has been seized by the hoster">
                             <a href="http://www.rainhosting.nl">RainHosting</a>
                         </li>
-            		<li data-placement="left" data-toggle="tooltip" title="Jules Durand, the owner of Skoali put hundreds of backdoors, pruned his messages and claimed that the people who provided proof was just spamming him  (for 4+ months???)">
-                            <a href="https://www.skoali.fr">Skoali</a>
-                        </li>
-			    <li data-placement="left" data-toggle="tooltip" title="VapeHost has many issues such as downtime, ignoring customers & of course using bad security practices a data breach occured of all client data (Including Address's, Phone Numbers & Payment Info). VapeHost is one of the Lifetime Host's which advertise hosting for your lifetime, but as expected it's lifetime of the company. VapeHost got compromised NotFound ghosted the whole discord for days and still never made a public statement about the breach.">
+			<li data-placement="left" data-toggle="tooltip" title="VapeHost has many issues such as downtime, ignoring customers & of course using bad security practices a data breach occured of all client data (Including Address's, Phone Numbers & Payment Info). VapeHost is one of the Lifetime Host's which advertise hosting for your lifetime, but as expected it's lifetime of the company. VapeHost got compromised NotFound ghosted the whole discord for days and still never made a public statement about the breach.">
                             <a href="https://vapehost.cc">VapeHost</a>
                         </li>
 			    </li>
@@ -365,6 +365,9 @@
                         </li>
                         <li data-placement="left" data-toggle="tooltip" title="This unintelligent leaker paid for a resource using his leak name (awecrift). While attempting to crack the resource, he removed one too many lines and resulted in nuking one of his nodes. 'I won't leak anymore'[sic]">
                             <a href="#">ItzAwesome </a>
+                        </li>
+                        <li data-placement="left" data-toggle="tooltip" title="The famous hobo who literally uses fake bank account numbers to obtain his free nodes. ">
+                            <a href="#">Bryan Kea </a>
                         </li>
                     </ul>
                 </div>
