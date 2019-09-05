@@ -13,24 +13,6 @@
     <p style="text-align: center">Welcome to The Vault. Below, you will find a gallery of hosting providers, and a specifically tailored page for each entry shown below.</p>
     <div class="card-columns">
         <div class="card">
-            <a href="skoali/">
-                <img src="/static_assets/media/hoaxes/skoali/jules-logo.png" class="card-img-top" alt="Logo of Jules Durand">
-            </a>
-                <div class="card-body">
-                    <h5 class="card-title">Jules Durand</h5>
-            <p class="card-text">Jules Durand, owner of Skoali, professional backdoor installer, INSERER PREUVE <br>Click "Read More" to view proof.</p>
-        </div>
-        <div class="card-footer">
-            <small class="text-muted">Last updated August 19, 2019</small>
-            <!--<span style="float:right;">
-                <a tabindex="0" data-toggle="popover" data-trigger="focus" title="Information" data-content="Sorry, we're currently developing this page!">Read More</a>
-            </span> -->
-            <span style="float:right;">
-                <a href="skoali/">Read More</a>
-            </span>
-        </div>
-    </div>
-        <div class="card">
             <a href="aaron/">
                 <img src="/static_assets/media/hoaxes/webrex/aaron.png" class="card-img-top" alt="Logo of WebRex">
             </a>
