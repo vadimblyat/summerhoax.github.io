@@ -238,8 +238,8 @@
                         avoiding these hosts if possible.</p>
                     <hr>
                     <ul>
-                         <li data-placement="left" data-toggle="tooltip" title="A clown host ran by Bryan Kea, the hobo who obtains his free servers using fake bank account number. Use this amazing free host if you want to give this underage kid who engaged in identity theft your personal information.">
-                            <a href="https://discord.gg/geYdah">Platinum Nodes</a>
+                         <li data-placement="left" data-toggle="tooltip" title="A clown host ran by Bryan Kea, the hobo who obtains his free servers using fake bank account numbers. Use this amazing free host if you want to give this underage kid who engaged in identity theft your personal information.">
+                            <a href="https://discord.gg/geYdah">PlatinumNodes</a>
                         </li>				 
                          <li data-placement="left" data-toggle="tooltip" title="Classic summerhost: No SSL, Nulled WHMCS, Freenom domain, lying about specs (claiming to have dual i9-9900K).">
                             <a href="http://wizardland.tk/">WizardLand.tk</a>
