@@ -289,7 +289,7 @@
                             <a href="https://vapehost.cc">VapeHost</a>
                         </li>
 			    </li>
-			    <li data-placement="left" data-toggle="tooltip" title="A scummy host selling very sketchy WHMCS Licenses. Failing to deliver a product and ended up suspending the client's friend (who had nothing to do with this upon getting a chargeback. They also offer free additional resources for raiding competitors' TrustPilot page. Avoid at all cost. ">
+			    <li data-placement="left" data-toggle="tooltip" title="A scummy host selling very sketchy WHMCS Licenses. Failing to deliver a product and ended up suspending the client's friend (who had nothing to do with this) upon getting a chargeback. They also offer free additional resources for raiding competitors' TrustPilot page. Avoid at all cost. ">
                             <a href="https://redrock.host">MCFreeHosting LTD</a>
                         </li>
 			    
