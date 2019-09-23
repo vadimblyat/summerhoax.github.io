@@ -292,6 +292,9 @@
 			    <li data-placement="left" data-toggle="tooltip" title="A scummy host selling very sketchy WHMCS Licenses. Failing to deliver a product and ended up suspending the client's friend (who had nothing to do with this) upon getting a chargeback. They also offer free additional resources for raiding competitors' TrustPilot page. Avoid at all cost. ">
                             <a href="https://redrock.host">MCFreeHosting LTD</a>
                         </li>
+                        <li data-placement="left" data-toggle="tooltip" title="Terrible uptime & lack of transparency with customers. Managed by 15-16 year olds.">
+                            <a href="https://deploys.io">Deploys.io</a>
+                        </li>
 			    
                     </ul>
                     <p class="text-muted">We take no responsibility for the accuracy of these listings.</p>
