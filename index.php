@@ -238,6 +238,9 @@
                         avoiding these hosts if possible.</p>
                     <hr>
                     <ul>
+                         <li data-placement="left" data-toggle="tooltip" title="A massive scum host ran by former FalixNodes (another shit host) staff. Using nulled themes, lying about it, claiming that it was custom then openly saying they simply don't care of the cracked themes has massive exploits. These fuckers also used lifetime free servers to attract people to their little Discord then deleted the free node a week later. ">
+                            <a href="https://panel.easly.host">Easly.host</a>
+                        </li>	
                          <li data-placement="left" data-toggle="tooltip" title="A clown host ran by Bryan Kea, the hobo who obtains his free servers using fake bank account numbers. Use this amazing free host if you want to give this underage kid who engaged in identity theft your personal information.">
                             <a href="https://discord.gg/geYdah">PlatinumNodes</a>
                         </li>				 
