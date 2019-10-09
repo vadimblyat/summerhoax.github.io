@@ -293,7 +293,7 @@
                             <a href="https://redrock.host">MCFreeHosting LTD</a>
                         </li>
                         <li data-placement="left" data-toggle="tooltip" title="Terrible uptime & lack of transparency with customers. Managed by 15-16 year olds.">
-                            <a href="https://deploys.io">Deploys.io</a>
+                            <a href="https://dashflo.net/">Dashflo.net</a> (formerly <a href="https://deploys.io">Deploys.io</a>)
                         </li>
 			    
                     </ul>
