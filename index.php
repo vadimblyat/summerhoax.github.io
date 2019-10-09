@@ -293,7 +293,7 @@
                         </li>
 			    </li>
 			    <li data-placement="left" data-toggle="tooltip" title="A scummy host selling very sketchy WHMCS Licenses. Failing to deliver a product and ended up suspending the client's friend (who had nothing to do with this) upon getting a chargeback. They also offer free additional resources for raiding competitors' TrustPilot page. Avoid at all cost. ">
-                            <a href="https://redrock.host">MCFreeHosting LTD</a>
+                            <a href="https://mcfh.ltd">MCFreeHosting LTD</a>
                         </li>
 			    <li data-placement="left" data-toggle="tooltip" title="ReallyFast "LLC" is a hosting company that is very suspicious and exit scammed, they offered lifetime hosting but both owners "Resigned" to a new owner who's account had been made immediately the day it was transferred. This host is a scam.">
                             <a href="https://reallyfast.host">ReallyFast "LLC"</a>
