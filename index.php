@@ -293,7 +293,7 @@
                         </li>
 			</li>
 			    <li data-placement="left" data-toggle="tooltip" title="MCFreeHosting LTD's owner, MVP, scammed a client from a WHMCS key. After charging back for the WHMCS key, the client lost all his accounts on his reseller account. They sell cheap Hetzner servers and have admitted that they might shutdown soon. One of the managers, IPvD said &quot;I hate ni**ers they deserve die&quot; and blamed it on autocorrect. Inside the Summerhoax discord, he also called everyone &quot;fag***s&quot; and was banned. In a ticket with one of the clients affected in a partnership closure, they called hosts &quot;gay&quot;. Very unprofessional host.">
-                            <a href="https://redrock.host">MCFreeHosting LTD</a>
+                            <a href="https://mcfh.ltd">MCFreeHosting LTD</a>
                         </li>			    
 			    <li data-placement="left" data-toggle="tooltip" title="ReallyFast "LLC" is a hosting company that is very suspicious and exit scammed, they offered lifetime hosting but both owners "Resigned" to a new owner who's account had been made immediately the day it was transferred. This host is a scam.">
                             <a href="https://reallyfast.host">ReallyFast "LLC"</a>
