@@ -291,15 +291,19 @@
 			<li data-placement="left" data-toggle="tooltip" title="VapeHost has many issues such as downtime, ignoring customers & of course using bad security practices a data breach occured of all client data (Including Address's, Phone Numbers & Payment Info). VapeHost is one of the Lifetime Host's which advertise hosting for your lifetime, but as expected it's lifetime of the company. VapeHost got compromised NotFound ghosted the whole discord for days and still never made a public statement about the breach.">
                             <a href="https://vapehost.cc">VapeHost</a>
                         </li>
-			    </li>
-			    <li data-placement="left" data-toggle="tooltip" title="A scummy host selling very sketchy WHMCS Licenses. Failing to deliver a product and ended up suspending the client's friend (who had nothing to do with this) upon getting a chargeback. They also offer free additional resources for raiding competitors' TrustPilot page. Avoid at all cost. ">
-                            <a href="https://mcfh.ltd">MCFreeHosting LTD</a>
-                        </li>
-                        <li data-placement="left" data-toggle="tooltip" title="Terrible uptime & lack of transparency with customers. Managed by 15-16 year olds.">
+			</li>
+                        <li data-placement="left" data-toggle="tooltip" title="Terrible uptime & lack of transparency with customers. A lot of false advertising, such as DDOS Protection on all services.">
                             <a href="https://dashflo.net/">Dashflo.net</a> (formerly <a href="https://deploys.io">Deploys.io</a>)
-                        </li>
+                        </li>         
+			    <li data-placement="left" data-toggle="tooltip" title="MCFreeHosting LTD's owner, MVP, scammed a client from a WHMCS key. After charging back for the WHMCS key, the client lost all his accounts on his reseller account. They sell cheap Hetzner servers and have admitted that they might shutdown soon. One of the managers, IPvD said &quot;I hate ni**ers they deserve die&quot; and blamed it on autocorrect. Inside the Summerhoax discord, he also called everyone &quot;fag***s&quot; and was banned. In a ticket with one of the clients affected in a partnership closure, they called hosts &quot;gay&quot;. Very unprofessional host.">
+                            <a href="https://mcfh.ltd">MCFreeHosting LTD</a>
+                        </li>			    
 			    <li data-placement="left" data-toggle="tooltip" title="ReallyFast "LLC" is a hosting company that is very suspicious and exit scammed, they offered lifetime hosting but both owners "Resigned" to a new owner who's account had been made immediately the day it was transferred. This host is a scam.">
                             <a href="https://reallyfast.host">ReallyFast "LLC"</a>
+			</li>
+			    <li data-placement="left" data-toggle="tooltip" title="RapidHost is a host that used a contabo vps from NickE and sold a user 15GB ram and when they lost their nodes they refused give the customer half their money back and started deleting their dms with the customer to try stop him getting proof he was scammed">
+                            <a href="https://panel.rapidmc.xyz">RapidHost</a>
+			</li>
                     </ul>
                     <p class="text-muted">We take no responsibility for the accuracy of these listings.</p>
                 </div>
