@@ -292,6 +292,9 @@
                             <a href="https://vapehost.cc">VapeHost</a>
                         </li>
 			</li>
+                        <li data-placement="left" data-toggle="tooltip" title="Terrible uptime & lack of transparency with customers. A lot of false advertising, such as DDOS Protection on all services.">
+                            <a href="https://dashflo.net/">Dashflo.net</a> (formerly <a href="https://deploys.io">Deploys.io</a>)
+                        </li>         
 			    <li data-placement="left" data-toggle="tooltip" title="MCFreeHosting LTD's owner, MVP, scammed a client from a WHMCS key. After charging back for the WHMCS key, the client lost all his accounts on his reseller account. They sell cheap Hetzner servers and have admitted that they might shutdown soon. One of the managers, IPvD said &quot;I hate ni**ers they deserve die&quot; and blamed it on autocorrect. Inside the Summerhoax discord, he also called everyone &quot;fag***s&quot; and was banned. In a ticket with one of the clients affected in a partnership closure, they called hosts &quot;gay&quot;. Very unprofessional host.">
                             <a href="https://mcfh.ltd">MCFreeHosting LTD</a>
                         </li>			    
