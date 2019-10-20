@@ -238,6 +238,9 @@
                         avoiding these hosts if possible.</p>
                     <hr>
                     <ul>
+                         <li data-placement="left" data-toggle="tooltip" title="Clown host Neesp rebranded. Using stolen website from RamShard.com & claiming they were just 'borrowing', leaking software and crying it is only for their 'community', and a buch of other sins. Avoid at all cost".>
+                            <a href="https://purecpu.com">PureCPU.com</a>
+                        </li>
                          <li data-placement="left" data-toggle="tooltip" title="A massive scum host ran by former FalixNodes (another shit host) staff. Using nulled themes, lying about it, claiming that it was custom then openly saying they simply don't care if the cracked themes has massive exploits. These fuckers also used lifetime free servers to attract people to their little Discord then deleted the free node a week later. ">
                             <a href="https://panel.easly.host">Easly.host</a>
                         </li>	
