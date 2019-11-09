@@ -304,8 +304,8 @@
 			    <li data-placement="left" data-toggle="tooltip" title="ReallyFast "LLC" is a hosting company that is very suspicious and exit scammed, they offered lifetime hosting but both owners "Resigned" to a new owner who's account had been made immediately the day it was transferred. This host is a scam.">
                             <a href="https://reallyfast.host">ReallyFast "LLC"</a>
 			</li>
-			    <li data-placement="left" data-toggle="tooltip" title="RapidHost is a host that used a contabo vps from NickE and sold a user 15GB ram and when they lost their nodes they refused give the customer half their money back and started deleting their dms with the customer to try stop him getting proof he was scammed">
-                            <a href="https://panel.rapidmc.xyz">RapidHost</a>
+			    <li data-placement="left" data-toggle="tooltip" title="JetNode is owned by the same people as RapidHost, after they got added to SummerHoax they decided to change the name of the host, then close it and convert it into a Minecraft server. A month ago, they created JetNode, a company that copies a registred game hosting company and shitty support. Owners have put no effort into it.">
+                            <a href="https://panel.jetnode.xyz">JetNode</a>
 			</li>
                     </ul>
                     <p class="text-muted">We take no responsibility for the accuracy of these listings.</p>
@@ -347,7 +347,10 @@
                         </li>	
 			<li data-placement="left" data-toggle="tooltip" title="This host has had a ton of downtime that they've denied in the past. You have to contact support to just get your server rebooted. They recently closed their Discord and said that there was a &quot;network upgrade&quot; that would last an hour. However, it's been almost 5 days with no response. Their website and servers are completely offline. What a joke of a host!">
                             <a href="https://eportal.icxrealty.com">ICXRealty</a>
-                        </li>			    
+                        </li>
+			    <li data-placement="left" data-toggle="tooltip" title="RapidHost is a host that used a Contabo VPS from NickE and sold a user 15GB ram and when they lost their nodes they refused give the customer half their money back and started deleting their dms with the customer to try stop him getting proof he was scammed">
+                            <a href="https://panel.rapidmc.xyz">RapidHost</a>
+			</li>
                     </ul>
                     <p class="text-muted">Thanks to the wonders of technology, you can view previous versions of
                         these websites at
