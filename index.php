@@ -307,6 +307,9 @@
 			    <li data-placement="left" data-toggle="tooltip" title="RapidHost is a host that used a contabo vps from NickE and sold a user 15GB ram and when they lost their nodes they refused give the customer half their money back and started deleting their dms with the customer to try stop him getting proof he was scammed">
                             <a href="https://panel.rapidmc.xyz">RapidHost</a>
 			</li>
+		        <li data-placement="left" data-toggle="tooltip" title="Using nulled WHMCS and doubled down on it saying he does not see a point in spending money on something he can get for free. Super shady Discord, selling stuffs like Spotify accounts to claiming that they have a $3000 DDOS Protection (which we highly doubt they have - they can't even spend $15 on a WHMCS license).">
+                            <a href="https://server642.com">Server642.com</a>
+                        </li>	
                     </ul>
                     <p class="text-muted">We take no responsibility for the accuracy of these listings.</p>
                 </div>
@@ -323,10 +326,7 @@
                         </li>
                         <li data-placement="left" data-toggle="tooltip" title="Very few are able to pull off what the owner of Venom Hosting, EDBTVPlays, while facing little to no consequences. The 16-year-old owner of Venom Hosting, also known as EdbtvPlays or Edward Brook, took many of his days spending ridiculous amounts of money on his mother's credit card. He created a host, played plenty of Unturned, and did god knows what else with his near-unlimited amount of cash. His mother? Blisfully unknowing she was losing thousands of dollars to her son's stupid decisions on the internet. At least, it didn't last for long. Like any self-respecting, dignified parent, Edward's mother filed a chargeback. Not just any chargeback, though - a $6,000 (Likely much higher) Chargeback. Countless people affected. Many losing thousands of dollars. Several hours of drama. It is *currently* unknown what happened to Edward. His social media presence has been since wiped. A lawyer representing an affected individual is supposedly filing a case against him and his family.">
                             <a href="https://web.archive.org/web/20180806132535/http://venom-hosting.com/">Venom Hosting (Archive.org)</a>
-                        </li>			    
-                        <li data-placement="left" data-toggle="tooltip" title="Using nulled WHMCS and doubled down on it saying he does not see a point in spending money on something he can get for free. Super shady Discord, selling stuffs like Spotify accounts to claiming that they have a $3000 DDOS Protection (which we highly doubt they have - they can't even spend $15 on a WHMCS license).">
-                            <a href="https://server642.com">Server642.com</a>
-                        </li>		
+                        </li>			    	
                         <li data-placement="left" data-toggle="tooltip" title="Ran by the famous lunatic. Makes a load of bold claims saying that they will rape the industry (yes, literally) when they don't even have a very basic proper host setup. They also hired haxxors to haxx criticism.">
                             <a href="https://enteron.world">Enteron.world</a>
                         </li>
