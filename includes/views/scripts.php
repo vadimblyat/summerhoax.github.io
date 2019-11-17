@@ -14,10 +14,3 @@
         $('[data-toggle="tooltip"]').tooltip()
     })
 </script>
-<script src="https://cdn.jsdelivr.net/npm/@widgetbot/crate@3" async defer>
-    new Crate({
-        server: '571922612230422528',
-        channel: '571922612230422530',
-        shard: 'https://disweb.deploys.io'
-    })
-</script>
