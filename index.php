@@ -347,7 +347,10 @@
                         </li>	
 			<li data-placement="left" data-toggle="tooltip" title="This host has had a ton of downtime that they've denied in the past. You have to contact support to just get your server rebooted. They recently closed their Discord and said that there was a &quot;network upgrade&quot; that would last an hour. However, it's been almost 5 days with no response. Their website and servers are completely offline. What a joke of a host!">
                             <a href="https://eportal.icxrealty.com">ICXRealty</a>
-                        </li>			    
+                        </li>
+			<li data-placement="left" data-toggle="tooltip" title="Ghosted all clients and continued to charge them after the billing panel, nodes, and site went down. Completely ignoring all questions by clients and only responds to chargeback requests. Was originally good, however once the Director of Operations left the team everything fell apart.">
+                            <a href="https://discord.gg/nTjmYS9">CloudEx Hosting</a>
+			</li>
                     </ul>
                     <p class="text-muted">Thanks to the wonders of technology, you can view previous versions of
                         these websites at
