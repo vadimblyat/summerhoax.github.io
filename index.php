@@ -294,7 +294,9 @@
 			<li data-placement="left" data-toggle="tooltip" title="VapeHost has many issues such as downtime, ignoring customers & of course using bad security practices a data breach occured of all client data (Including Address's, Phone Numbers & Payment Info). VapeHost is one of the Lifetime Host's which advertise hosting for your lifetime, but as expected it's lifetime of the company. VapeHost got compromised NotFound ghosted the whole discord for days and still never made a public statement about the breach.">
                             <a href="https://vapehost.cc">VapeHost</a>
                         </li>
-			</li>
+			    <li data-placement="left" data-toggle="tooltip" title="Owner offered discord hosting, used me for whmcs setup as he is too lazy, I never got anything in return, using broken old computers to host, blamed me for his wifi issues, tried making me pay for the hosting after giving it to me for free, gave me access to the computer where it was hosted and when I tried getting my files he then kicked me off, I told him im going to switch host and he then deleted my files and started calling me an ass and told me to never contact him.">
+                            <a href="https://marzmediahosting.com">MarzMediaHosting</a>
+                        </li>
                         <li data-placement="left" data-toggle="tooltip" title="Terrible uptime & lack of transparency with customers. A lot of false advertising, such as Voxility DDOS Protection on all services.">
                             <a href="https://dashflo.net/">Dashflo.net</a> (formerly <a href="https://deploys.io">Deploys.io</a>)
                         </li>         
