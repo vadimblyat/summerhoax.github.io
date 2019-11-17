@@ -238,7 +238,7 @@
                         avoiding these hosts if possible.</p>
                     <hr>
                     <ul>
-                         <li data-placement="left" data-toggle="tooltip" title="Clown host Neesp rebranded. Using stolen website from RamShard.com & claiming they were just 'borrowing', leaking software and crying it is only for their 'community', and a buch of other sins. Avoid at all cost".>
+                         <li data-placement="left" data-toggle="tooltip" title="Clown host Neesp rebranded. Using stolen website from RamShard.com & claiming they were just 'borrowing', leaking software and crying it is only for their 'community', and a buch of other sins. Avoid at all cost.">
                             <a href="https://purecpu.com">PureCPU.com</a>
                         </li>
                          <li data-placement="left" data-toggle="tooltip" title="A massive scum host ran by former FalixNodes (another shit host) staff. Using nulled themes, lying about it, claiming that it was custom then openly saying they simply don't care if the cracked themes has massive exploits. These fuckers also used lifetime free servers to attract people to their little Discord then deleted the free node a week later. ">
@@ -261,7 +261,7 @@
                         </li>	
                         <li data-placement="left" data-toggle="tooltip" title="Notorious scammer. Avoid at all cost. Delivering a broken product, refusing to give refunds and basically telling people to open a dispute if they want their money back. This infamous lunatic also begged people to send him money and claimed that he was not scamming because they can open a charge back via PayPal. Even worse, upon getting a dispute, this sad joke took it to DM and called his victims 'fucking ass wipe'. ">
                             <a href="https://leetvpn.xyz">LeetVPN.xyz</a>			    
-                        <li data-placement="left" data-toggle="tooltip" title="”CEO” is very entitled, cocky, rude, and toxic. Lies about his hardware. Doesn’t even have a proper website...essentially runs everything out of his discord server. You can literally go into his website directory and find a bunch of templates he’s downloaded most likely for future use.">
+                        <li data-placement="left" data-toggle="tooltip" title="&quot;CEO&quot; is very entitled, cocky, rude, and toxic. Lies about his hardware. Doesn’t even have a proper website...essentially runs everything out of his discord server. You can literally go into his website directory and find a bunch of templates he’s downloaded most likely for future use.">
                             <a href="https://discord.gg/tScBE9M">PingNode.eu</a>
                         <li data-placement="left" data-toggle="tooltip" title="Owners are extremely salty. Uses default everything on their website. Had a .nl domain but changed it to .eu. Owners spam emails and claim “our website is near completion” also at one point said they developed their billing panel which is obviously just default WHMCS...">
                             <a href="https://Iwa-hosting.eu">IWA-Hosting.eu</a>
@@ -303,7 +303,7 @@
 			    <li data-placement="left" data-toggle="tooltip" title="MCFreeHosting LTD's owner, MVP, scammed a client from a WHMCS key. After charging back for the WHMCS key, the client lost all his accounts on his reseller account. They sell cheap Hetzner servers and have admitted that they might shutdown soon. One of the managers, IPvD said &quot;I hate ni**ers they deserve die&quot; and blamed it on autocorrect. Inside the Summerhoax discord, he also called everyone &quot;fag***s&quot; and was banned. In a ticket with one of the clients affected in a partnership closure, they called hosts &quot;gay&quot;. Very unprofessional host.">
                             <a href="https://mcfh.ltd">MCFreeHosting LTD</a>
                         </li>			    
-			    <li data-placement="left" data-toggle="tooltip" title="ReallyFast "LLC" is a hosting company that is very suspicious and exit scammed, they offered lifetime hosting but both owners "Resigned" to a new owner who's account had been made immediately the day it was transferred. This host is a scam.">
+			    <li data-placement="left" data-toggle="tooltip" title="ReallyFast &quot;LLC&quot; is a hosting company that is very suspicious and exit scammed, they offered lifetime hosting but both owners &quot;Resigned&quot; to a new owner who&#39s account had been made immediately the day it was transferred. This host is a scam.">
                             <a href="https://reallyfast.host">ReallyFast "LLC"</a>
 			</li>
 			    <li data-placement="left" data-toggle="tooltip" title="RapidHost is a host that used a contabo vps from NickE and sold a user 15GB ram and when they lost their nodes they refused give the customer half their money back and started deleting their dms with the customer to try stop him getting proof he was scammed">
